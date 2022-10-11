@@ -32,6 +32,7 @@ def banner():
 /_/   /_/\__,_/\__, /_/_/ /_/____/   \____/_/ /_/\___/\___/_/|_|\___/_/     
               /____/        
                                         :- by Nasir Khan (r0ot h3x49)
+                                               updated by Unkn0wnGh0st !
 -------------------------------------------------------------------------\n'''
     sys.stdout.write(sb + fg + str(ban))
 class WordPress:
